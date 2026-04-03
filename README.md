@@ -21,7 +21,7 @@ AI-ассистент для сайта клиники, который:
 - Make — обработка webhook
 - Google Sheets — хранение заявок
 - Telegram — уведомления
-
+![Architecture](screenshots/architecture.png)
 ---
 
 ## 🔄 Логика работы
