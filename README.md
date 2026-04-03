@@ -61,6 +61,9 @@ AI-ассистент для сайта клиники, который:
 
 ---
 
+![взаимодействие ассистента -googgle sheets - tg через make](https://github.com/user-attachments/assets/ae6ba3db-46a6-447a-b4a7-376f851f5ccd)
 
+![voiceflow сценарий](https://github.com/user-attachments/assets/08a5ce6c-2e29-415e-af08-960269393f99)
 
+![скрин маke](https://github.com/user-attachments/assets/7c7e9338-54f6-4b44-b446-a8790ebd7b9c)
 
