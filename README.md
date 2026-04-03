@@ -66,4 +66,6 @@ AI-ассистент для сайта клиники, который:
 ![voiceflow сценарий](https://github.com/user-attachments/assets/08a5ce6c-2e29-415e-af08-960269393f99)
 
 ![скрин маke](https://github.com/user-attachments/assets/7c7e9338-54f6-4b44-b446-a8790ebd7b9c)
+[КП версия на продажу.pdf](https://github.com/user-attachments/files/26453102/default.pdf)
+[коммерческое предложение Ai фссистент и сайт для клиники Медлайн.pdf](https://github.com/user-attachments/files/26453103/Ai.pdf)
 
